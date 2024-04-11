@@ -1,6 +1,6 @@
 <h1>------>HelpFood<-------</h1>
 <h4>Asignatura: Programacion 2</h4>
-<h4>Alumno: Michuax Juan Martin</h4>
+<h4>Alumno: Michaux Juan Martin</h4>
 <h4>Profesor: Piruzzi Fabrizio</h4>
 <h4>Año: 2024</h4>
 
